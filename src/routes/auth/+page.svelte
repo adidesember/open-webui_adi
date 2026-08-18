@@ -347,7 +347,7 @@
 												type="password"
 												id="password"
 												class="my-0.5 w-full text-sm outline-hidden bg-transparent placeholder:text-gray-300 dark:placeholder:text-gray-600"
-												placeholder={$i18n.t('Enter Your Password')}
+												placeholder="Password Anda"
 												autocomplete={mode === 'signup' ? 'new-password' : 'current-password'}
 												name="password"
 												screenReader={true}
